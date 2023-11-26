@@ -1,3 +1,4 @@
+//A program for linear search
 public class LinearSearch {
     public static void main(String[] args) {
         int arr[] = {33,56,7,8,9};
